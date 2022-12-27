@@ -1,0 +1,23 @@
+h1{
+font-family: 'Ubuntu', sans-serif;
+}
+body{
+    margin-top: 2%;
+    background-color: green;
+}
+.container{
+    padding: 5%;
+    background-color: aliceblue;
+    margin-left: 40%;
+    margin-right: 40%;
+    border: 10%;
+}
+.Input{
+    background-color: aliceblue;
+}
+.align{ 
+    Margin: 5%
+}
+li{
+    margin: 5%;
+}
